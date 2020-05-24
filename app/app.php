@@ -15,7 +15,7 @@
 	define("TITLE", "");
 	define("DESC", "");
 	define("PATH", realpath("."));
-    define("URL", "https://backoffice.replybutton.com");
+    define("URL", "https://turkft.herokuapp.com/");
     define("THEME_URL", URL . "/public");
     define("THEME", PATH . "/public");
     define("STATUS", 1);
