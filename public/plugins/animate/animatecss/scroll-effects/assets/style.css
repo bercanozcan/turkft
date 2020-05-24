@@ -1,0 +1,7 @@
+/* Required */
+.animate-hidden{
+	opacity: 0;
+}
+.animate-visible{
+	opacity: 1;
+}

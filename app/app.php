@@ -16,6 +16,7 @@
 	define("DESC", "");
 	define("PATH", realpath("."));
     define("URL", "https://turkft.herokuapp.com/");
+    #define("URL", "http://localhost:5555");
     define("THEME_URL", URL . "/public");
     define("THEME", PATH . "/public");
     define("STATUS", 1);
