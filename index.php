@@ -1,5 +1,10 @@
 <?php
+    ob_start();
 
-    echo 'Hello world!';
+	define("BRUNO",true);
+
+    require THEME."/index.php";
+
+    ob_flush();
 
 ?>
